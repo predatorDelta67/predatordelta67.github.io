@@ -42,6 +42,11 @@ h2
 	font-size: 450%;
 }
 
+.def
+{
+	color: gray;
+	font-style: italic;
+}
 
 .gmaplink
 {
