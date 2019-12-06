@@ -48,6 +48,12 @@ h2
 	font-style: italic;
 }
 
+.deflink
+{
+	text-decoration:none;
+	color: gray;
+}
+
 .gmaplink
 {
 	color: black;
