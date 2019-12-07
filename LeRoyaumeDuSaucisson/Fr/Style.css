@@ -153,7 +153,8 @@ div#langue img
 	margin-top: 20px;
 	border: 1px solid white;
 	border-radius: 2px;
-	width: 75%;
+	max-width: 75%;
+	max-height: auto;
 }
 
 /*Menu pour changer de page*/
