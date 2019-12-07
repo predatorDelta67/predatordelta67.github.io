@@ -68,18 +68,16 @@ h2
 }
 
 /* Corps de la page qui contient les infos */
-@media (min-width: 1000px){
+
 div#corps
 {
 	background: rgba(255, 255, 255, 0.90);
 	position: relative;
 	width: 80%;
-	min-width: 1000px;
 	left: 10%;
 	top: 175px;
 	right: 10%;
 	border-radius: 15px;
-}
 }
 
 div#corps p
