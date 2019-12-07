@@ -111,7 +111,7 @@ div#corps address
 	border-radius: 5px;
 }
 
-div#corps img
+.img
 {
 	margin-left: 23.5%;
 	border: 1px solid black;
