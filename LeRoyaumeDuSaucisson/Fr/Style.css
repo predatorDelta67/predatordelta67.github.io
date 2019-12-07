@@ -133,6 +133,16 @@ div#Entete
 		border-radius: 3px;
 
 	}
+
+	div#langue img
+	{
+		margin-left: 11px;
+		margin-top: 12px;
+		border: 1px solid white;
+		border-radius: 2px;
+		max-width: 62%;
+		max-height: auto;
+	}
 }
 @media (min-width: 1000px){
 	div#langue
@@ -147,15 +157,16 @@ div#Entete
 		border-radius: 5px;
 
 	}
-}
-div#langue img
-{
-	margin-left: 11px;
-	margin-top: 20px;
-	border: 1px solid white;
-	border-radius: 2px;
-	max-width: 62%;
-	max-height: auto;
+
+	div#langue img
+	{
+		margin-left: 11px;
+		margin-top: 20px;
+		border: 1px solid white;
+		border-radius: 2px;
+		max-width: 62%;
+		max-height: auto;
+	}
 }
 
 /*Menu pour changer de page*/
