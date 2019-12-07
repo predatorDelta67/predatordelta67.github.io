@@ -72,22 +72,22 @@ div#corps
 {
 	background: rgba(255, 255, 255, 0.90);
 	position: relative;
-	width: 80%;
-	left: 10%;
+	width: 90%;
+	left: 5%;
 	top: 175px;
-	right: 10%;
+	right: 5%;
 	border-radius: 15px;
 }
 
-@media (max-with: 1000px){
+@media (min-with: 1000px){
 	div#corps
 	{
 		background: rgba(255, 255, 255, 0.90);
 		position: relative;
-		width: 90%;
-		left: 5%;
+		width: 80%;
+		left: 10%;
 		top: 175px;
-		right: 5%;
+		right: 10%;
 		border-radius: 15px;
 	}
 }
