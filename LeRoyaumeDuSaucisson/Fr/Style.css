@@ -68,7 +68,7 @@ h2
 }
 
 /* Corps de la page qui contient les infos */
-@media (max-with: 1000px){
+@media (max-width: 1000px){
 	div#corps
 	{
 		background: rgba(255, 255, 255, 0.90);
@@ -80,7 +80,7 @@ h2
 		border-radius: 15px;
 	}
 }
-@media (min-with: 1000px){
+@media (min-width: 1000px){
 	div#corps
 	{
 		background: rgba(255, 255, 255, 0.90);
@@ -119,7 +119,7 @@ div#Entete
 }
 
 /* Menu pour changer de langue*/
-@media (max-with: 1000px){
+@media (max-width: 1000px){
 	div#langue
 	{
 		height: 260px;
