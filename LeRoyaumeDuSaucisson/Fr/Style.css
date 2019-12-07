@@ -68,7 +68,6 @@ h2
 }
 
 /* Corps de la page qui contient les infos */
-
 div#corps
 {
 	background: rgba(255, 255, 255, 0.90);
@@ -79,6 +78,20 @@ div#corps
 	right: 10%;
 	border-radius: 15px;
 }
+
+@media (max-with: 1000px){
+	div#corps
+	{
+		background: rgba(255, 255, 255, 0.90);
+		position: relative;
+		width: 90%;
+		left: 5%;
+		top: 175px;
+		right: 5%;
+		border-radius: 15px;
+	}
+}
+
 
 div#corps p
 {
