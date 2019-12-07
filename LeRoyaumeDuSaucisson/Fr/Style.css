@@ -113,8 +113,7 @@ div#corps address
 
 .img
 {
-	display: inline-block;
-	vertical-align: middle;
+	margin-left: 35%;
 	border: 1px solid black;
 	border-radius: 5px;
 }
