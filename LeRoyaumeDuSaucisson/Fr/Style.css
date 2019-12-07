@@ -113,7 +113,7 @@ div#corps address
 
 .img
 {
-	margin: O auto;
+	margin: 0 auto;
 	border: 1px solid black;
 	border-radius: 5px;
 }
