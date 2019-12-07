@@ -104,14 +104,14 @@ div#corps address
 	font-size: 200%;
 }
 
-div#corps img
+.imgscrollup
 {
 	margin-left: 47%;
 	border: 1px solid black;
 	border-radius: 5px;
 }
 
-div#corps p img
+div#corps img
 {
 	border: 1px solid black;
 	border-radius: 5px;
