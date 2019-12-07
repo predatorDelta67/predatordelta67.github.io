@@ -94,7 +94,12 @@ h2
 	}
 }
 
-div#corps p, address
+div#corps p
+{
+	font-size: 200%;
+}
+
+div#corps address
 {
 	font-size: 200%;
 }
