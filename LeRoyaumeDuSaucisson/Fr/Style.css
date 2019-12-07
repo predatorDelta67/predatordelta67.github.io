@@ -113,9 +113,9 @@ div#corps address
 
 div#corps img
 {
+	margin-left: 23.5%;
 	border: 1px solid black;
 	border-radius: 5px;
-	text-align: center;
 }
 
 /* Bandeau */
