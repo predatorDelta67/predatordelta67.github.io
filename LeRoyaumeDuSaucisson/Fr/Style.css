@@ -84,7 +84,7 @@ h2
 @media (min-width: 1000px){
 	div#corps
 	{
-		background: rgba(255, 255, 255, 0.90);
+		background: rgba(30, 30, 30, 0.90);
 		position: relative;
 		width: 80%;
 		left: 10%;
@@ -107,14 +107,14 @@ div#corps address
 .imgscrollup
 {
 	margin-left: 47%;
-	border: 1px solid black;
+	border: 1px solid white;
 	border-radius: 5px;
 }
 
 .img
 {
 	margin-left: 30%;
-	border: 1px solid black;
+	border: 1px solid white;
 	border-radius: 5px;
 }
 
