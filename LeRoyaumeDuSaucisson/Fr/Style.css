@@ -111,6 +111,13 @@ div#corps img
 	border-radius: 5px;
 }
 
+div#corps p img
+{
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+}
+
 /* Bandeau */
 div#Entete
 {
