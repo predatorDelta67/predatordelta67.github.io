@@ -42,30 +42,6 @@ h2
 	font-size: 450%;
 }
 
-.def
-{
-	color: gray;
-	font-style: italic;
-}
-
-.deflink
-{
-	text-decoration:none;
-	color: gray;
-}
-
-.gmaplink
-{
-	color: rgb(200, 200, 200);
-}
-
-.titre
-{
-	text-indent: 40px;
-	font-family: Oswald;
-	font-size: 250%;
-	color: rgb(200, 200, 200);
-}
 
 /* Corps de la page qui contient les infos */
 @media (max-width: 1000px){
@@ -105,20 +81,6 @@ div#corps address
 	font-size: 200%;
 	text-align: right;
 	margin-right: 10px;
-}
-
-.imgscrollup
-{
-	margin-left: 47%;
-	border: 1px solid white;
-	border-radius: 5px;
-}
-
-.img
-{
-	margin-left: 30%;
-	border: 1px solid white;
-	border-radius: 5px;
 }
 
 /* Bandeau */
@@ -219,4 +181,44 @@ nav li a
 	text-decoration:none;
 	display:block;
 	color: white;
+}
+
+/*Classes*/
+.def
+{
+	color: gray;
+	font-style: italic;
+}
+
+.deflink
+{
+	text-decoration:none;
+	color: gray;
+}
+
+.gmaplink
+{
+	color: rgb(200, 200, 200);
+}
+
+.titre
+{
+	text-indent: 40px;
+	font-family: Oswald;
+	font-size: 250%;
+	color: rgb(200, 200, 200);
+}
+
+.imgscrollup
+{
+	margin-left: 47%;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+.img
+{
+	margin-left: 30%;
+	border: 1px solid white;
+	border-radius: 5px;
 }
