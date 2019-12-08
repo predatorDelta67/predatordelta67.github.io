@@ -27,10 +27,10 @@ body
 	background-size: cover;
 }
 
-p, h3, h4, h5, h6, table, address
+p, h3, h4, h5, h6, table
 {
 	font-family: Rokkitt;	
-	color: white;
+	color: rgb(200, 200, 200);
 	margin-left: 20px;
 }
 
@@ -73,7 +73,6 @@ h2
 div#corps p
 {
 	font-size: 200%;
-	color: rgb(200, 200, 200);
 }
 
 div#corps address
@@ -81,6 +80,7 @@ div#corps address
 	font-size: 200%;
 	text-align: right;
 	margin-right: 10px;
+	color: white;
 }
 
 /* Bandeau */
