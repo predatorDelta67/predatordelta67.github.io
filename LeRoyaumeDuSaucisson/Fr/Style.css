@@ -145,7 +145,7 @@ div#Entete
 		max-height: auto;
 	}
 }
-@media (max-height: 500px){
+@media (max-height: 600px){
 	div#langue
 	{
 		top: 160px
