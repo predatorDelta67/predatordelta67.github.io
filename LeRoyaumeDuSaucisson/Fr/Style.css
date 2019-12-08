@@ -145,6 +145,12 @@ div#Entete
 		max-height: auto;
 	}
 }
+@media (max-height: 500px){
+	div#langue
+	{
+		top: 160px
+	}
+}
 
 /*Menu pour changer de page*/
 nav ul
