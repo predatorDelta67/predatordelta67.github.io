@@ -182,6 +182,7 @@ nav li a
 /*div vide*/
 div#vide
 {
+	position: relative;
 	height: 30px;
 }
 
