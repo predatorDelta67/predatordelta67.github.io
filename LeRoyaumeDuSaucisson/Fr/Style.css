@@ -179,6 +179,12 @@ nav li a
 	color: white;
 }
 
+/*div vide*/
+div#vide
+{
+	height: 30px;
+}
+
 /*Classes*/
 .def
 {
