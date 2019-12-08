@@ -103,6 +103,7 @@ div#corps p
 div#corps address
 {
 	font-size: 200%;
+	text-align: right;
 }
 
 .imgscrollup
