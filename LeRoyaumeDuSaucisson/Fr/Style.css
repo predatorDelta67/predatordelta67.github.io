@@ -97,6 +97,7 @@ h2
 div#corps p
 {
 	font-size: 200%;
+	color: rgb(245, 245, 245);
 }
 
 div#corps address
