@@ -26,6 +26,12 @@ body
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+@media (max-width: 1000px){
+	body
+	{
+		background-image:url(../img/background-mobile.png);
+	}
+}
 
 p, h3, h4, h5, h6, table
 {
