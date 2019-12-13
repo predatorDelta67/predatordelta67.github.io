@@ -12,6 +12,9 @@
 	</head>
 	
 	<body>
+
+		<!-- Loader -->
+			<div id ="loader"></div>
 	
 		<!-- Bandeau avec les différents menus -->
 			<div id ="Entete">
@@ -70,6 +73,14 @@
 			<!--div vide pour laisser de l'espace à la fin de la page-->
 			<div id="vide"></div>
 			
-		</div>	
+		</div>
+
+		<!-- Script permettant l'affichage d'une image de chargement -->
+		<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+		<script type="text/javascript">
+		$(window).load(function() {
+			$("div#loader").fadeOut("1000");
+		})
+		</script>	
 	</body>
 </html>

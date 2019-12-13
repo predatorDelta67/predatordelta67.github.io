@@ -57,6 +57,19 @@ h2
 	font-size: 450%;
 }
 
+/* Loader */
+div#loader
+{
+	position : fixed;
+	z-index: 9999;
+	background : url("../icons/loading.gif") 50% 50% no-repeat;
+	top : 0px;
+	left : 0px;
+	height : 100%;
+	width : 100%;
+	cursor : wait;
+}
+
 
 /* Corps de la page qui contient les infos */
 
